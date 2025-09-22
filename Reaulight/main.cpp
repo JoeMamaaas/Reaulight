@@ -1,5 +1,7 @@
 #include "mainwindow.h"
+#include "dmxlink.h"
 
+#include <QSerialPort>
 #include <QApplication>
 #include <QLocale>
 #include <QTranslator>
